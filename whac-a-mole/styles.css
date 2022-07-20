@@ -1,0 +1,17 @@
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 350px;
+  height: 350px;
+}
+
+.grid-square {
+  height: 200px;
+  width: 200px;
+  border: solid black 1px;
+}
+
+.mole {
+  background-image: url('./images/whac-a-mole.jpg');
+  background-size: cover;
+}
